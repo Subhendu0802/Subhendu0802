@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" height="256px" src="https://tenor.com/0bYs.gif"/>![Profile views](https://gpvc.arturio.dev/Hiroto77)
+![Profile views](https://gpvc.arturio.dev/Hiroto77)
 ![image](https://user-images.githubusercontent.com/89163743/208240736-52e8e90a-b923-45d2-b45a-d7bb648fcaa1.png)
 
 <!--
