@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Hiroto77)
 <img align="right" height="256px" alt="gif" src="https://64.media.tumblr.com/cd2aff504724d249441078cc12470464/c82696408e1e065d-f6/s540x810/e83c7d07171c3fee5ee266f756247fb3d478f81c.gifv">
+![image](https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png)
 
 
 <!--
