@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 [![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)](https://holopin.io/@subhendu0802)
-
+![spotify](https://spotify-interactive.vercel.app/userstats)
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
