@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Hiroto77)
-![image](https://user-images.githubusercontent.com/89163743/208240736-52e8e90a-b923-45d2-b45a-d7bb648fcaa1.png)
+<img align="right" height="256px" src="https://user-images.githubusercontent.com/89163743/208240736-52e8e90a-b923-45d2-b45a-d7bb648fcaa1.png">
 
 <!--
 **Subhendu0802/Subhendu0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
