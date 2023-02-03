@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
-![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)](https://holopin.io/@subhendu0802)
+![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)]
 
 ### Skills:
 
