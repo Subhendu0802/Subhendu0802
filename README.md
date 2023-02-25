@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-![MySql](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRemix-Design%2FRemixIcon%2Fissues%2F234&psig=AOvVaw2SWDwIFenU8sLWWu2LvJq4&ust=1677397981446000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiI2MiYsP0CFQAAAAAdAAAAABAI)
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
