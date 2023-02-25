@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-![MySql](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Fdevelopment%2Blogo%2Bmysql%2Bicon-1320184807686758112%2F&psig=AOvVaw189Yvs679GUPi2MBX_OumE&ust=1677397795590000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi4xO-XsP0CFQAAAAAdAAAAABAE)
+![MySql](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRemix-Design%2FRemixIcon%2Fissues%2F234&psig=AOvVaw2SWDwIFenU8sLWWu2LvJq4&ust=1677397981446000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiI2MiYsP0CFQAAAAAdAAAAABAI)
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
