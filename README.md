@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
+<div>
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <img align="right" height="256px" width="44%"  alt="gif" style="display: inline-block" src="https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png">
+  </div>
 <hr>
 ![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)
 <!--
