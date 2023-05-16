@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/8uaOiZk0xg2Na/giphy.gif" height="256px" width="44%" align="right" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
-
+<p align='right'>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+</p>     
 [![Subhendu0802's GitHub | Stats](https://stats.quine.sh/Subhendu0802/github?theme=dark)](https://quine.sh)
 
 [![Subhendu0802's GitHub | Topics](https://stats.quine.sh/Subhendu0802/topics-over-time?theme=dark)](https://quine.sh)
