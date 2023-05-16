@@ -32,7 +32,9 @@ Here are some ideas to get you started:
   
 [![Subhendu0802's GitHub | Stats](https://stats.quine.sh/Subhendu0802/github?theme=dark)](https://quine.sh)
 [![Subhendu0802's GitHub | Topics](https://stats.quine.sh/Subhendu0802/topics-over-time?theme=dark)](https://quine.sh)
+[![Subhendu0802's GitHub | Languages Over Time](https://stats.quine.sh/Subhendu0802/languages-over-time?theme=dark)](https://quine.sh)
 ![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)
+
 
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
