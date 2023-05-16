@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <!--<img align="right" height="256px" width="44%"  alt="gif" style="display: inline-block" src="https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png">
 -->
 <img src="https://media.giphy.com/media/8uaOiZk0xg2Na/giphy.gif" height="256px" width="44%" align="right" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3 align = "right">📬 Contact Me:</h3>
 <p align='right'>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p>     
 [![Subhendu0802's GitHub | Stats](https://stats.quine.sh/Subhendu0802/github?theme=dark)](https://quine.sh)
 
