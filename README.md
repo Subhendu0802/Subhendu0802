@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
-
+https://tenor.com/en-GB/view/eren-yeager-yeager-eren-gif-23104622
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
