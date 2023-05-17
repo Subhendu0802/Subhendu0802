@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
 <p>
- <img src="https://tenor.com/en-GB/view/ao-haru-ride-anime-anime-couple-anime-cute-gif-21254686.gif" height="50%" width="44%" align="right" />
+ <img src="blob:https://tenor.com/5fe89b42-3fe8-4f72-9463-86b75ba6874f" height="50%" width="44%" align="right" />
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
