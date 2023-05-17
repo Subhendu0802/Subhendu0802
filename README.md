@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
 <!-- <img src="https://tenor.com/en-GB/view/kou-ao-haru-ride-kou-mabuchi-anime-look-gif-17477946.gif" height="50%" width="44%" align="right" />
 -->
-<img src="https://tenor.com/en-GB/view/cool-gif-23950227" height="50%" width="44%" align="right" />
+<img src="https://tenor.com/en-GB/view/cool-gif-23950227.gif" height="50%" width="44%" align="right" />
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
