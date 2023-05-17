@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
 <p>
- <img src="https://tenor.com/en-GB/view/mabuchi-kou-kou-mabuchi-blue-spring-ride-yoshioka-futaba-yoshioka-gif-25463006" height="50%" width="44%" align="right" />
+ <img src="https://tenor.com/en-GB/view/mabuchi-kou-kou-mabuchi-blue-spring-ride-yoshioka-futaba-yoshioka-gif-25463006.gif" height="50%" width="44%" align="right" />
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
