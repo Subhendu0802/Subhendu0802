@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
 <p>
+ <img src="https://tenor.com/en-GB/view/eren-yeager-yeager-eren-gif-23104622.gif" height="50%" width="44%" align="right" />
 ### Skills:
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <!--<img align="right" height="256px" width="44%"  alt="gif" style="display: inline-block" src="https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png">
 -->
-<img src="https://tenor.com/en-GB/view/eren-yeager-yeager-eren-gif-23104622.gif" height="50%" width="44%" align="right" />
+
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 ![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)
 
 <h3 align = "center">📬 Contact Me:</h3>
-<p align='right'>
+<p align='center'>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p> 
