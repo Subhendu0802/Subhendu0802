@@ -1,8 +1,6 @@
-### Hi there 👋
+<div>
+ ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Subhendu0802)
-
-
-
 
 <!--
 **Subhendu0802/Subhendu0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Skills:
-<div>
+
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
@@ -32,7 +30,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://tenor.com/en-GB/view/eren-yeager-yeager-eren-gif-23104622.gif" height="50%" width="44%" align="right" />
 </div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
    
 
 [![Subhendu0802's GitHub | Stats](https://stats.quine.sh/Subhendu0802/github?theme=dark)](https://quine.sh)
