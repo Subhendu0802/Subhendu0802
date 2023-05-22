@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
- <code><img height -"50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+ <code><img height -"50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/512px-Postgresql_elephant.svg.png"></code>
 <!--<img align="right" height="256px" width="44%"  alt="gif" style="display: inline-block" src="https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png">
 -->
 
