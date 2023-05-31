@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <!--
 <img src="https://tenor.com/en-GB/view/cool-gif-23950227.gif" height="50%" width="44%" align="right" />
 -->
-### Skills:
+ 
+ ### <b>Skills:</b>
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
