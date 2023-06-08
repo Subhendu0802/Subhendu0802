@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
  
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="subhendu-adhikari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subhendu-adhikari?trk=profile-badge">Subhendu Adhikari</a></div>
+              
 [![Subhendu0802's GitHub | Stats](https://stats.quine.sh/Subhendu0802/github?theme=dark)](https://quine.sh)
 
 
