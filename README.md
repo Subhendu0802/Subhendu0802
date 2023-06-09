@@ -5,7 +5,7 @@
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{subhendu0802}/count.svg)
 -->
-![GitHub Views](https://komarev.com/ghpvc/?username=subhendu0802&color=0000FF)
+![GitHub Views](https://komarev.com/ghpvc/?username=subhendu0802&color=00FFFF)
 
 <!--
 **Subhendu0802/Subhendu0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
