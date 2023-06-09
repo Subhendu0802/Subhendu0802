@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
+<h3 align = "center">📬 Contact Me:</h3>
+<p align='center'>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+</p> 
 <p>
  <img src="https://tenor.com/en-GB/view/kou-ao-haru-ride-kou-mabuchi-anime-look-gif-17477946.gif" height="50%" width="44%" align="right" />
 <!--
@@ -56,11 +61,7 @@ Here are some ideas to get you started:
 [![Subhendu0802's GitHub | Languages Over Time](https://stats.quine.sh/Subhendu0802/languages-over-time?theme=dark)](https://quine.sh)
 ![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)
 
-<h3 align = "center">📬 Contact Me:</h3>
-<p align='center'>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
-</p> 
+
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
