@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
-<h3 align = "center">📬 Contact Me:</h3>
-<p align='center'>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
-</p> 
+ 
 <p>
  <img src="https://tenor.com/en-GB/view/kou-ao-haru-ride-kou-mabuchi-anime-look-gif-17477946.gif" height="50%" width="44%" align="right" />
 <!--
@@ -49,7 +45,11 @@ Here are some ideas to get you started:
 -->
 
 </p>
-
+<h3 align = "center">📬 Contact Me:</h3>
+<p align='center'>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+</p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
  
 
