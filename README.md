@@ -2,7 +2,8 @@
  ### Hi there 👋<br>
  <!--![Profile views](https://gpvc.arturio.dev/Subhendu0802)
 -->
-[GitHub Profile Views Counter]: https://github.com/subhendu0802/github-profile-views-counter
+
+![Visitor Count](https://profile-counter.glitch.me/{subhendu0802}/count.svg)
 
 <!--
 **Subhendu0802/Subhendu0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
