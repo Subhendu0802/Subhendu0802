@@ -5,6 +5,8 @@
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{subhendu0802}/count.svg)
 -->
+![GitHub Views](https://komarev.com/ghpvc/?username=subhendu0802)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=subhendu0802&color=FFA500)
 
 <!--
