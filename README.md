@@ -48,9 +48,8 @@ Here are some ideas to get you started:
 -->
 
 </p>
-
-<h3 align = "left">📬 Contact Me:</h3>
 <p>
+<h3 align = "left">📬 Contact Me:</h3>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p>
