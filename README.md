@@ -53,10 +53,14 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p>
-### Stats :
+###  Stats :
+<br>
 <br>
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=450)](https://git.io/streak-stats)
+<br>
+<br>
 <br>
 <span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
