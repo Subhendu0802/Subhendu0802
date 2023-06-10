@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=450)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+
               
 [![Subhendu0802's GitHub | Stats](https://stats.quine.sh/Subhendu0802/github?theme=dark)](https://quine.sh)
 
@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
  
 
-</div>
+
 
 [![Subhendu0802's GitHub | Topics](https://stats.quine.sh/Subhendu0802/topics-over-time?theme=dark)](https://quine.sh)
-[![Subhendu0802's GitHub | Languages Over Time](https://stats.quine.sh/Subhendu0802/languages-over-time?theme=dark)](https://quine.sh)
+
 ![@subhendu0802's Holopin board](https://holopin.me/subhendu0802)
 
 
@@ -77,5 +77,5 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
 -->
