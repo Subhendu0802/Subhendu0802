@@ -64,12 +64,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=subhendu0802)
+![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=subhendu0802&show_icons=true&theme=dark&title_color=yellow&icon_color=yellow&text_color=yellow&bg_color=0D1117)
+
 
 <div align="left">
 
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=360" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=470" alt="GitHub Streak" />
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
