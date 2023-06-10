@@ -76,7 +76,7 @@ Here are some ideas to get you started:
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify GitHub Profile" align="right" width="310" height="200"/>
   </a>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
 -->
