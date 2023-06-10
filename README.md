@@ -64,17 +64,19 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div align="left">
+
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=420" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=360" alt="GitHub Streak" />
   </a>
+ &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
  <a href="https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify GitHub Profile" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify GitHub Profile" align="right" width="310" height="200"/>
   </a>
 </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
 -->
