@@ -48,11 +48,15 @@ Here are some ideas to get you started:
 -->
 
 </p>
+<span>
 <h3 align = "left">📬 Contact Me:</h3>
 <p align='left'>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p>
+</span>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" align="right" />
+
 ### Stats :<br><br>
 
 
@@ -63,7 +67,7 @@ Here are some ideas to get you started:
 <span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </span>
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" align="right" />
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
 
