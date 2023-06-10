@@ -69,9 +69,10 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=360" alt="GitHub Streak" />
   </a>
- &nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark" alt="Top Langs" align="right"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
 
 </div>
