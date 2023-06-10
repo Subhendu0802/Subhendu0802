@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div>
               
