@@ -56,11 +56,9 @@ Here are some ideas to get you started:
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" align="center"/>
 ### Stats : <br><br>
 
-
+<span>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=450)](https://git.io/streak-stats)
-<br>
-<br>
-<br>
+</span>
 <span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </span>
