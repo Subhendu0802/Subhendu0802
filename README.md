@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <!--
 <img src="https://tenor.com/en-GB/view/cool-gif-23950227.gif" height="50%" width="44%" align="right" />
 -->
- 
+
+
  ### <b>Skills:</b>
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FPostgreSQL&psig=AOvVaw0CU2z7wSu1vFI_f1xT4Vy4&ust=1686481591033000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjGzdPHuP8CFQAAAAAdAAAAABAI"></code>
+<code><img height="50" src="https://github.com/Subhendu0802/Subhendu0802/assets/89163743/4159293e-3458-4fe5-9c97-9482e0921aec"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
 <!--<img align="right" height="256px" width="44%"  alt="gif" style="display: inline-block" src="https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png">
