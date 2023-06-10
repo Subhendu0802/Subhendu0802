@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
+![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=subhendu0802)
+
 <div align="left">
 
   <a href="https://git.io/streak-stats">
