@@ -48,16 +48,15 @@ Here are some ideas to get you started:
 -->
 
 </p>
-<span>
+<p>
 <h3 align = "left">📬 Contact Me:</h3>
 
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 
-</span>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card"/>
-
-### Stats :<br><br>
+</p>
+### Stats : <br><br>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=450)](https://git.io/streak-stats)
