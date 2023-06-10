@@ -48,14 +48,15 @@ Here are some ideas to get you started:
 -->
 
 </p>
-<p>
+<span>
 <h3 align = "left">📬 Contact Me:</h3>
-
+<p>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhendu-adhikari/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card"/>
 </p>
+</span>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card"/>
+
 ### Stats : <br><br>
 
 
