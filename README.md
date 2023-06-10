@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="50" width="50" src="https://github.com/Subhendu0802/Subhendu0802/assets/89163743/4159293e-3458-4fe5-9c97-9482e0921aec"></code>
-<code><img height="50"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="50" src="https://github.com/Subhendu0802/Subhendu0802/assets/89163743/6e9b3c1a-7c83-4f75-95b0-0a780a7238a1"></code>
 
 <!--<img align="right" height="256px" width="44%"  alt="gif" style="display: inline-block" src="https://user-images.githubusercontent.com/89163743/215576915-a05ec6e2-ae94-464c-8ac4-244fbd542c90.png">
 -->
