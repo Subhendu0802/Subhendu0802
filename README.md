@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=420" alt="GitHub Streak" align="left" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=subhendu0802&theme=dark&card_width=420" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu0802&layout=compact&theme=vision-friendly-dark" alt="Top Langs" align="center"/>
