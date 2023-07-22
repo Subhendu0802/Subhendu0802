@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Subhendu's github stats](https://github-readme-stats.vercel.app/api?username=Subhendu0802&theme=tokyonight)
 -->
- 
+<!--https://tenor.com/en-GB/view/kou-ao-haru-ride-kou-mabuchi-anime-look-gif-17477946.gif-->
 <p>
- <img src="https://tenor.com/en-GB/view/kou-ao-haru-ride-kou-mabuchi-anime-look-gif-17477946.gif" height="50%" width="44%" align="right" />
+ <img src="https://picsum.photos/id/42/380?grayscale" align="right" />
 <!--
 <img src="https://tenor.com/en-GB/view/cool-gif-23950227.gif" height="50%" width="44%" align="right" />
 -->
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" align="Right"/>
-<br><br>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+<br>
 
 <!--
 <div style="display: flex;">
