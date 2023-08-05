@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 <p>
 <h3 align = "left">📬 Contact Me:</h3>
 &nbsp;&nbsp;
-<a href="https://twitter.com/SUBHENDU4262"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
-<a href="https://www.linkedin.com/in/subhendu0802/"><img alt="twitter" height="50" width="50" src="https://github.com/Subhendu0802/Subhendu0802/assets/89163743/a266b8db-6eef-4e57-9ad1-a645702c3a0b"/>
+<a href="https://www.linkedin.com/in/subhendu0802/"><img alt="LinkedIn" height="50" width="45" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+<a href="https://twitter.com/SUBHENDU4262"><img alt="twitter" height="50" width="50" src="https://github.com/Subhendu0802/Subhendu0802/assets/89163743/a266b8db-6eef-4e57-9ad1-a645702c3a0b"/>
 </p>
 
 
