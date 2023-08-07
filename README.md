@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=subhendu0802)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhendu%2C;A+passionate+backend+developer+from+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhendu%2C;In+the+era+of+being+a+backend+developer.)](https://git.io/typing-svg)
 <p align="center">
  <!--![Profile views](https://gpvc.arturio.dev/Subhendu0802)
 -->
