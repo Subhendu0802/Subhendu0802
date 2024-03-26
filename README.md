@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 -->
 
 </p>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+<!--
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)-->
 <p>
 <h3 align = "left">📬 Contact Me:</h3>
 &nbsp;&nbsp;
@@ -55,9 +56,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/subhendu4262"><img alt="twitter" height="50" width="50" src="https://github.com/Subhendu0802/Subhendu0802/assets/89163743/a266b8db-6eef-4e57-9ad1-a645702c3a0b"/>
 </p>
 
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=054cj4yit9t6h7m7e1ulhhh0s&redirect=true)
-
+-->
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 
